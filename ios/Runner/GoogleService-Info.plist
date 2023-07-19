@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>501405946968-pqt1p1ng5r7ql2pgqip45uc92hj51j7e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.501405946968-pqt1p1ng5r7ql2pgqip45uc92hj51j7e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwAp0_oMrTeFX0sMa_XcGmMwO861s7rUM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501405946968</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.moments</string>
+	<key>PROJECT_ID</key>
+	<string>moments-5e85c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moments-5e85c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501405946968:ios:5c2c63e7817099ea5d662d</string>
+</dict>
+</plist>
