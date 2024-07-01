@@ -52,7 +52,7 @@ class _HomepageState extends State<Homepage> {
           );
         });
   }
-new changes 
+
   Widget _builduserlistitem(DocumentSnapshot document) {
     Map<String, dynamic> data = document.data()! as Map<String, dynamic>;
     // dispaly all users except the current user
